@@ -1,6 +1,6 @@
 ## Homework task
 
-## Project features
+### Project features
 - Javascript
 
 ## Authors
